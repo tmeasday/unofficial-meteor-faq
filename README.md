@@ -1,5 +1,9 @@
 Unofficial Meteor FAQ
 =====================
+
+## _NOTE!!_ This repository has moved to https://github.com/oortcloud/unofficial-meteor-faq, please update links accordingly!
+
+
 Just answering some common questions that aren’t answered in the [official meteor FAQ](http://www.meteor.com/faq/). Thanks go to @dandv, @possibilities, @IainShigeoka, @brainclone and @matb33. 
 
 ##How do I update this FAQ?
